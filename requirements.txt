@@ -3,4 +3,4 @@ mediapipe
 numpy
 streamlit
 gunicorn
-sklearn
+scikit-learn
